@@ -1,0 +1,11 @@
+{
+  "name": "library-management-be",
+  "version": "1.0.0",
+  "description": "backend REST API for library-management project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wisnuprsj",
+  "license": "ISC"
+}
